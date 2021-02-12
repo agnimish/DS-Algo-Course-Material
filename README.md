@@ -1,4 +1,2 @@
-# DS Algo Course Material (ESO-207)
-Dynamic repository for maintaining Course material and my Submissions for Data Structures and Algorithms course taught by Prof. Sumit Ganguly.
-
-P.S - Don't forget to give this repo a star if you find it useful, so that it come. :)
+# ESO207 - Data Structures and Algorithms: Course Material
+Dynamic repository for maintaining course material and my submissions for Data Structures and Algorithms course taught by Prof. Sumit Ganguly in Spring semester 2019.
